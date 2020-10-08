@@ -1,0 +1,18 @@
+body{
+background: green;
+}
+h1{  
+ color: fuchsia;
+ font-family: 'Oswald', sans-serif;
+}
+img{
+width: 100px;
+
+}
+
+
+.img-rotate:hover{
+	width: 400px;
+	transform: rotate(360deg);
+	transition: 0.9s;
+}
